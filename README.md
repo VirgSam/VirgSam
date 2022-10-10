@@ -23,6 +23,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+I have an extensive background working within the pharmaceutical industry as a lead clinical data analyst independently and within a diverse global team while managing complex relationships with a wide range of stakeholders. Transitioning from clinical data management to data science and programming with python. I am passionate about learning new approaches of analysis, interpretation, manipulation, and visualization of data. As an individual who strongly believes in success and continuously strives for growth, I recently completed a data science boot camp and currently pursuing further certifications in Backend Programming with Python and Machine learning.
+
 <!--
 **VirgSam/VirgSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,4 +41,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have an extensive background working within the pharmaceutical industry as a lead clinical data analyst independently and within a diverse global team while managing complex relationships with a wide range of stakeholders. Transitioning from clinical data management to data science and programming with python. I am passionate about learning new approaches of analysis, interpretation, manipulation, and visualization of data. As an individual who strongly believes in success and continuously strives for growth, I recently completed a data science boot camp and currently pursuing further certifications in Backend Programming with Python and Machine learning.
+
