@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/tC6ZYz3n6FwAuwCGt6/giphy.webp?cid=ecf05e47u36bt17bb2irn7vt8ztbqrglhrahaen35om1ajqd&rid=giphy.webp&ct=g" width="200"/>
+</div>
+
 <!--
 **VirgSam/VirgSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
