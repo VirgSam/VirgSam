@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200"/>
-  <img src="https://giphy.com/gifs/DronaHQ-automation-nocode-lowcode-i1JHRZSXO9LZZDHqii" width="200"/>
-</div>
-
 <!--
 **VirgSam/VirgSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
