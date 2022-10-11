@@ -1,5 +1,5 @@
 <h1 align="center">
- Hi there welcome to my page 👋
+ Hi welcome to my page 👋
 </h1>
 
 <div id="header" align="center">
@@ -12,7 +12,7 @@
 </div>
 
 ### :man_technologist: About me :
-I am a Data Analyt / budding Software Developer.
+I am a Clinical Data Analyt / Budding Software Developer.
 - :telescope: I am new to Software Development and learning about building backend web applications.
 
 - :seedling: Exploring Different Tools and Technological Concepts.
