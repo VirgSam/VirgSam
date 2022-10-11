@@ -1,5 +1,5 @@
 <h1 align="center">
-## Hi there welcome to my page 👋
+ Hi there welcome to my page 👋
 </h1>
 
 <div id="header" align="center">
@@ -10,6 +10,16 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+### :man_technologist: About me :
+I am a Data Analyt / budding Software Developer.
+- :telescope: I am new to Software Development and learning about building backend web applications.
+
+- :seedling: Exploring Different Tools and Technological Concepts.
+
+- :zap: In my free time I love to read, biohacking and Martial Arts.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jude-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/jude-odionyebuchukwu-46a3661b1](https://www.linkedin.com/in/christopher-odum-95577319/))
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
