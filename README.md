@@ -19,7 +19,7 @@ I am a Clinical Data Analyt / Budding Software Developer.
 
 - :zap: In my free time I love to read, biohacking and Martial Arts.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jude-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/jude-odionyebuchukwu-46a3661b1](https://www.linkedin.com/in/christopher-odum-95577319/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Chris-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-odum-95577319)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jude-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-odum-95577319)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Chris-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-odum-95577319)
 - 😄 Pronouns: ...(He/him)
 - ⚡ Fun fact: ...
 -->
