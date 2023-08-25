@@ -12,7 +12,7 @@
 </div>
 
 ### :man_technologist: About me :
-I am a Clinical Data Analyst / Budding Software Developer.
+I am a Clinical Data Analyst / Budding Software Developer / Data Scientist.
 - :telescope: I am new to Software Development and learning about building backend web applications.
 
 - :seedling: Exploring Different Tools and Technological Concepts.
